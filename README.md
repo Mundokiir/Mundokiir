@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Robert (@Mundokiir)
+- I like automating stuff with Python
